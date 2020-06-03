@@ -36,7 +36,7 @@ function App() {
       <h2>Click to know details about John Snow</h2>
       <div>
         <button className="fetch-button" onClick={fetchJohnSnow}>
-          John Snow
+          Jon Snow
         </button>
         <br />
       </div>
